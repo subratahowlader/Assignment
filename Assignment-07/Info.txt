@@ -61,4 +61,4 @@ Key Metrics
 
 👉 Commute Analysis: How many employees live within 1–3km vs. those living 10–15km away? (Useful for transport planning).
 
-👉 Marital Status & Health: What is the distribution of Marital Status and Blood Groups (useful for HR records and emergency planning)?
+👉 Marital Status & Health: What is the distribution of Marital Status and Blood Groups (useful for HR records and emergency planning)? 
